@@ -1,14 +1,14 @@
 import React from "react"
 import { Link } from "gatsby"
 
-import Header from "../components/header"
-import Footer from "../components/footer"
+import Head from '../components/head'
 
 import Layout from "../components/layout"
 
 const IndexPage = () => {
   return (
     <Layout>
+      <Head title="Home"/>
       <h1>Hello</h1>
       <h2>Woorld</h2>
       <p>
