@@ -1,4 +1,4 @@
-This needs an .env.development file in the root directory of the project
+This needs an .env file in the root directory of the project
 
 The two environment variables are provided from Contentful CMS
 
